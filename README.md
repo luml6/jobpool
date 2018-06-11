@@ -2,7 +2,7 @@
 
 - go get远程git库
 ```
-go get gitlab.blackshark.com/golibs/jobpool.git
+go get git@github.com:luml6/jobpool.git
 ```
 
 
@@ -11,7 +11,7 @@ go get gitlab.blackshark.com/golibs/jobpool.git
 - import
 ```
 import (
-	jobpool "gitlab.blackshark.com/golibs/jobpool.git"
+	jobpool "git@github.com:luml6/jobpool.git"
 )
 ```
 
